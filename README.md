@@ -1,2 +1,3 @@
-# cookie_recipe
-This is a repo for cookies and junk
+Tarryn Lambert
+
+Chocolate chip cookies from Metropolitan Market.
